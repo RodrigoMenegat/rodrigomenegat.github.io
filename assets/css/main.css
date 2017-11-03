@@ -8454,5 +8454,6 @@ header p {
    pointer-events: none;
    cursor: default;
    text-decoration: none;
+   color: grey;
   
 }
