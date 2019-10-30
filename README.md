@@ -1,2 +1,2 @@
 # rodrigomenegat.github.io
-My personal Github pages repo
+My personal Github pages repo.
